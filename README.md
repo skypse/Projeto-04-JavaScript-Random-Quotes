@@ -1,5 +1,6 @@
 # Citações Aleatórias 📜
-https://github.com/skypse/Projeto-04-JavaScript-Random-Quotes/assets/97822775/a8cf5cb3-8123-42ef-ba5d-79c777b6be01
+https://github.com/skypse/Projeto-04-JavaScript-Random-Quotes/assets/97822775/f3681236-49e1-4f7a-a3a0-c278562033df
+
 
 Este é um pequeno aplicativo web que exibe citações aleatórias e oferece algumas funcionalidades extras, como ouvir a citação em áudio, copiar a citação para a área de transferência e compartilhar a citação no Twitter.
 ### ⚙️Recursos Principais:
